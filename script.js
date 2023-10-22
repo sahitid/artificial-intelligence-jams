@@ -15,7 +15,7 @@
 // Let's set up some constants!
 // Normally it isn't safe to store your API key client-side because other people can get ahold of it... but we'll do this for the workshop. Besides, it's your personal assistant!
 const URL = 'https://teachablemachine.withgoogle.com/models/hiSl8IOc-/'
-const API_KEY = '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'
+const API_KEY = 'INSERT API KEY HERE'
 const THRESHOLD = 0.9
 
 let listening = false
